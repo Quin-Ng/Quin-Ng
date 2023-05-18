@@ -14,7 +14,7 @@ I'm passionate about financial modelling and forecasting.
   <a href="https://www.linkedin.com/in/quyen-thuc-nguyen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="nthucquyen47@gmail.com">
+  <a href="mailto:nthucquyen47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="80" height="30"/>
   </a>
  <div/>
