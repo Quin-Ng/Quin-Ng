@@ -2,7 +2,7 @@
  Hello, I'm Quin.
 </h3>
 
-I am a former Financial Services Assurance Associate with a passion for finance and consulting.
+I am a Financial Services Associate with an audit expertise and a passion for finance and data analytics.
 
 I'm keen on leveraging data analytics and machine learning to improve financial analysis.
 
